@@ -78,4 +78,4 @@ npm run dev
 
 ## Contributors
 
-- Your Name
+- Veenapani Rath
